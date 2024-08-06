@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\NET-LINQ\bin\Debug\net8.0\NET-LINQ.exe
+C:\Users\windows\Desktop\NET-LINQ\bin\Debug\net8.0\NET-LINQ.deps.json
+C:\Users\windows\Desktop\NET-LINQ\bin\Debug\net8.0\NET-LINQ.runtimeconfig.json
+C:\Users\windows\Desktop\NET-LINQ\bin\Debug\net8.0\NET-LINQ.dll
+C:\Users\windows\Desktop\NET-LINQ\bin\Debug\net8.0\NET-LINQ.pdb
+C:\Users\windows\Desktop\NET-LINQ\obj\Debug\net8.0\NET-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\NET-LINQ\obj\Debug\net8.0\NET-LINQ.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\NET-LINQ\obj\Debug\net8.0\NET-LINQ.AssemblyInfo.cs
+C:\Users\windows\Desktop\NET-LINQ\obj\Debug\net8.0\NET-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\NET-LINQ\obj\Debug\net8.0\NET-LINQ.sourcelink.json
+C:\Users\windows\Desktop\NET-LINQ\obj\Debug\net8.0\NET-LINQ.dll
+C:\Users\windows\Desktop\NET-LINQ\obj\Debug\net8.0\refint\NET-LINQ.dll
+C:\Users\windows\Desktop\NET-LINQ\obj\Debug\net8.0\NET-LINQ.pdb
+C:\Users\windows\Desktop\NET-LINQ\obj\Debug\net8.0\NET-LINQ.genruntimeconfig.cache
+C:\Users\windows\Desktop\NET-LINQ\obj\Debug\net8.0\ref\NET-LINQ.dll
