@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj": {}
+    "a:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj": {}
   },
   "projects": {
-    "A:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj": {
+    "a:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
+        "projectUniqueName": "a:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
         "projectName": "ESTUDOS-CSHARP-LINQ",
-        "projectPath": "A:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
+        "projectPath": "a:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
         "packagesPath": "C:\\Users\\mayco\\.nuget\\packages\\",
-        "outputPath": "A:\\DEV\\ESTUDOS-CSHARP-LINQ\\obj\\",
+        "outputPath": "a:\\DEV\\ESTUDOS-CSHARP-LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mayco\\AppData\\Roaming\\NuGet\\NuGet.Config"

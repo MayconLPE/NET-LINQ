@@ -60,18 +60,25 @@ internal class Program
         //     Console.WriteLine($"{result.Id} | {result.Nome} | {result.Valor} | {result.CategoriaId}");
         // }
 
-            // AGRUPAR POR CATEGORIA:
-            var resultado = from produtos in listaProdutos
-                         group produtos by produtos.CategoriaId into produtosAgrupados
-                         select produtosAgrupados;
-            foreach (var item in resultado)
-            {
-                Console.WriteLine(item.Key);
-                foreach (var prod in item)
-                {
-                    Console.WriteLine($"Produto: {prod.Nome} | Categoria: {prod.CategoriaId}");
-                }
-            }
+        // AGRUPAR POR CATEGORIA:
+            // var resultado = from produtos in listaProdutos
+            //              group produtos by produtos.CategoriaId into produtosAgrupados
+            //              select produtosAgrupados;
+            // foreach (var item in resultado)
+            // {
+            //     Console.WriteLine(item.Key);
+            //     foreach (var prod in item)
+            //     {
+            //         Console.WriteLine($"Produto: {prod.Nome} | Categoria: {prod.CategoriaId}");
+            //     }
+            // }
+        
+        // C# - LINQ - First, FirstOrDefault, Last, LastOrDefault, Single, SingleOrDefault
+
+        // var resultado = listaProdutos.First();
+        var resultado = listaProdutos.FirstOrDefault(x => x.Id == 2);
+
+        Console.WriteLine($"Nome: {resultado.Nome} | ID: {resultado.Id}");
 
     }
 }
